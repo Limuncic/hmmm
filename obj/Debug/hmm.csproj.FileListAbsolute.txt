@@ -1,0 +1,8 @@
+C:\Users\ucenik\source\repos\hmm\bin\Debug\hmm.exe.config
+C:\Users\ucenik\source\repos\hmm\bin\Debug\hmm.exe
+C:\Users\ucenik\source\repos\hmm\bin\Debug\hmm.pdb
+C:\Users\ucenik\source\repos\hmm\obj\Debug\hmm.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\hmm\obj\Debug\hmm.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\hmm\obj\Debug\hmm.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\hmm\obj\Debug\hmm.exe
+C:\Users\ucenik\source\repos\hmm\obj\Debug\hmm.pdb
